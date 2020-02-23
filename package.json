@@ -1,0 +1,30 @@
+{
+  "name": "ucf_homeworkweek13friendfinder",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "server.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "chosen": "^0.0.2",
+    "express": "^4.17.1",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmike/UCF_homeworkweek13Friendfinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedmike/UCF_homeworkweek13Friendfinder/issues"
+  },
+  "homepage": "https://github.com/jedmike/UCF_homeworkweek13Friendfinder#readme"
+}
