@@ -8,7 +8,7 @@
     "body-parser": "^1.19.0",
     "bootstrap": "^4.4.1",
     "chosen": "^0.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parser": "^0.1.4",
     "path": "^0.12.7"
   },
